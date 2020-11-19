@@ -1,0 +1,3 @@
+﻿  main.cpp
+C:\Users\sir\source\repos\ApiSendProc\main.cpp(14,10): warning C4101: wtext: неиспользованная локальная переменная
+  ApiSendProc.vcxproj -> C:\Users\sir\source\repos\ApiSendProc\Debug\ApiSendProc.exe

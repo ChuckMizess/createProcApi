@@ -1,0 +1,2 @@
+C:\Users\sir\source\repos\ApiSendProc\Debug\ApiSendProc.exe
+C:\Users\sir\source\repos\ApiSendProc\Debug\ApiSendProc.pdb
